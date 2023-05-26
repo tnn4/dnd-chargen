@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/dnd-chargen/static/css/main.e6c8deec.css",
-    "main.js": "/dnd-chargen/static/js/main.da4b02b8.js",
+    "main.js": "/dnd-chargen/static/js/main.00905b44.js",
     "static/js/787.57551772.chunk.js": "/dnd-chargen/static/js/787.57551772.chunk.js",
     "static/media/zen-garden-illustration.png": "/dnd-chargen/static/media/zen-garden-illustration.977dd87a1b616a2f65fc.png",
     "static/media/paladin-png": "/dnd-chargen/static/media/paladin-636272701937419552.ab54010efc7105b46384.png",
@@ -22,10 +22,15 @@
     "static/media/BookinsanityBoldItalic.otf": "/dnd-chargen/static/media/BookinsanityBoldItalic.ec999290fea8102a822e.otf",
     "static/media/BookinsanityBold.otf": "/dnd-chargen/static/media/BookinsanityBold.1ee950fa2d1760498885.otf",
     "static/media/ScalySansBoldItalic.otf": "/dnd-chargen/static/media/ScalySansBoldItalic.b22ca535063ff3c071ef.otf",
+    "static/media/humanfdnd.png": "/dnd-chargen/static/media/humanfdnd.e1d1ee51a6987e34e739.png",
     "static/media/ScalySansBold.otf": "/dnd-chargen/static/media/ScalySansBold.efa43c63aa0df7b93b34.otf",
     "static/media/zen-garden-map-md.jpg": "/dnd-chargen/static/media/zen-garden-map-md.103d33a0a20eb901e757.jpg",
+    "static/media/elffdnd.png": "/dnd-chargen/static/media/elffdnd.e995359a2adeb0d7fc09.png",
+    "static/media/goblinfdnd.png": "/dnd-chargen/static/media/goblinfdnd.244106616f389b472b2a.png",
     "static/media/logo-ver-1.png": "/dnd-chargen/static/media/logo-ver-1.b6a88e7156e4ff5715b4.png",
     "static/media/NodestoCapsCondensed.otf": "/dnd-chargen/static/media/NodestoCapsCondensed.23dee3e304ef9c1f84f2.otf",
+    "static/media/dwarff.png": "/dnd-chargen/static/media/dwarff.4a638acc34612ceae305.png",
+    "static/media/orcfdnd.png": "/dnd-chargen/static/media/orcfdnd.f5e2a7a1c98a4b1d3067.png",
     "static/media/zen-garden-map-sm.jpg": "/dnd-chargen/static/media/zen-garden-map-sm.20a27cd53300e45b3aad.jpg",
     "static/media/ZatannaMisdirectionItalic.otf": "/dnd-chargen/static/media/ZatannaMisdirectionItalic.43c4c77ff7735c0ab1d0.otf",
     "static/media/ZatannaMisdirection.otf": "/dnd-chargen/static/media/ZatannaMisdirection.2daef10780159279825a.otf",
@@ -39,11 +44,11 @@
     "static/media/leg.svg": "/dnd-chargen/static/media/leg.32a57c65cbec42005af1f3e905fa3be4.svg",
     "static/media/hearts.svg": "/dnd-chargen/static/media/hearts.2946519b4a0b4e141198aa05a11adc84.svg",
     "main.e6c8deec.css.map": "/dnd-chargen/static/css/main.e6c8deec.css.map",
-    "main.da4b02b8.js.map": "/dnd-chargen/static/js/main.da4b02b8.js.map",
+    "main.00905b44.js.map": "/dnd-chargen/static/js/main.00905b44.js.map",
     "787.57551772.chunk.js.map": "/dnd-chargen/static/js/787.57551772.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c8deec.css",
-    "static/js/main.da4b02b8.js"
+    "static/js/main.00905b44.js"
   ]
 }
