@@ -1,4 +1,3 @@
-# dnd-chargen
 
 # Character Generator for Dnd (dnd-chargen)
 
@@ -10,6 +9,8 @@ Prereqs:
 #### Create react app project with typescript
 `npm create-react-app your-app --template typescript`
 
+---
+
 #### Deploy
 Deploy to [github pages](https://github.com/gitname/react-gh-pages).
 `npm install gh-pages --save-dev`
@@ -17,6 +18,8 @@ Deploy to [github pages](https://github.com/gitname/react-gh-pages).
 WIP character generator for DnD built with react.
 
 Click on `Get character` to generate a character.
+
+---
 
 #### LICENSE
 
