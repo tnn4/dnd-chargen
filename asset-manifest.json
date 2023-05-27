@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/dnd-chargen/static/css/main.e6c8deec.css",
-    "main.js": "/dnd-chargen/static/js/main.0fba98e2.js",
+    "main.js": "/dnd-chargen/static/js/main.1700fa12.js",
     "static/js/787.57551772.chunk.js": "/dnd-chargen/static/js/787.57551772.chunk.js",
     "static/media/zen-garden-illustration.png": "/dnd-chargen/static/media/zen-garden-illustration.977dd87a1b616a2f65fc.png",
+    "static/media/sorcerer-png": "/dnd-chargen/static/media/sorcerer-636274643818663058.417a5a5ff6e1680abcdc.png",
     "static/media/paladin-png": "/dnd-chargen/static/media/paladin-636272701937419552.ab54010efc7105b46384.png",
-    "static/media/barbarian-png": "/dnd-chargen/static/media/barbarian-636272680339895080.b93c0f4fa666dc805d8c.png",
     "static/media/fighter-png": "/dnd-chargen/static/media/fighter-636272697874197438.f5739b62cad94f2d97fb.png",
     "static/media/ranger-png": "/dnd-chargen/static/media/ranger-636272702826438096.89a74fcd3289b1620d0e.png",
     "static/media/monk-png": "/dnd-chargen/static/media/monk-636274646181411106.04333d0297b358934981.png",
     "static/media/wizard-png": "/dnd-chargen/static/media/wizard-636272696881281556.69d462b42dcf60a8c5b2.png",
+    "static/media/warlock-png": "/dnd-chargen/static/media/warlock-636272708661726603.9b7ce209951e9d1da5ec.png",
     "static/media/cleric-png": "/dnd-chargen/static/media/cleric-636272706155064423.0fde65d206bc123fda86.png",
     "static/media/druid-png": "/dnd-chargen/static/media/druid-636272691461725405.dc251978ee37cee581e3.png",
     "static/media/bard-png": "/dnd-chargen/static/media/bard-636272705936709430.4c407ba5b95d0dd5ee47.png",
@@ -45,11 +46,11 @@
     "static/media/leg.svg": "/dnd-chargen/static/media/leg.32a57c65cbec42005af1f3e905fa3be4.svg",
     "static/media/hearts.svg": "/dnd-chargen/static/media/hearts.2946519b4a0b4e141198aa05a11adc84.svg",
     "main.e6c8deec.css.map": "/dnd-chargen/static/css/main.e6c8deec.css.map",
-    "main.0fba98e2.js.map": "/dnd-chargen/static/js/main.0fba98e2.js.map",
+    "main.1700fa12.js.map": "/dnd-chargen/static/js/main.1700fa12.js.map",
     "787.57551772.chunk.js.map": "/dnd-chargen/static/js/787.57551772.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c8deec.css",
-    "static/js/main.0fba98e2.js"
+    "static/js/main.1700fa12.js"
   ]
 }
