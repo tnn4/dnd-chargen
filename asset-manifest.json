@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/dnd-chargen/static/css/main.e6c8deec.css",
-    "main.js": "/dnd-chargen/static/js/main.07e4e2e0.js",
+    "main.js": "/dnd-chargen/static/js/main.e3c21994.js",
     "static/js/787.57551772.chunk.js": "/dnd-chargen/static/js/787.57551772.chunk.js",
     "static/media/zen-garden-illustration.png": "/dnd-chargen/static/media/zen-garden-illustration.977dd87a1b616a2f65fc.png",
     "static/media/sorcerer-png": "/dnd-chargen/static/media/sorcerer-636274643818663058.417a5a5ff6e1680abcdc.png",
@@ -47,11 +47,11 @@
     "static/media/leg.svg": "/dnd-chargen/static/media/leg.32a57c65cbec42005af1f3e905fa3be4.svg",
     "static/media/hearts.svg": "/dnd-chargen/static/media/hearts.2946519b4a0b4e141198aa05a11adc84.svg",
     "main.e6c8deec.css.map": "/dnd-chargen/static/css/main.e6c8deec.css.map",
-    "main.07e4e2e0.js.map": "/dnd-chargen/static/js/main.07e4e2e0.js.map",
+    "main.e3c21994.js.map": "/dnd-chargen/static/js/main.e3c21994.js.map",
     "787.57551772.chunk.js.map": "/dnd-chargen/static/js/787.57551772.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c8deec.css",
-    "static/js/main.07e4e2e0.js"
+    "static/js/main.e3c21994.js"
   ]
 }
